@@ -1,1 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
 
+h1 {
+    color: blue;
+}
+
+p {
+    color: gray;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
