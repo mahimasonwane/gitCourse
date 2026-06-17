@@ -74,3 +74,10 @@ branch switch karta hai
 echo feature branch > newFilefeaturebranch.txt
 👉 Kaam:
 ab ye file sirf featureBranch me bani
+
+💡 SUPER SIMPLE ONE-LINE MEMORY
+branch → list/create
+checkout → switch
+add → stage
+commit → save snapshot
+log → history
