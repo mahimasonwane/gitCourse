@@ -28,11 +28,9 @@ git restore --staged filename
 Staged file ko wapas unstaged karta hai (commit se hata deta hai, file delete nahi hoti).
 
 git restore --staged .
-
 👉 Definition:
 Saari staged files ko unstaged kar deta hai.
 
 git reset HEAD filename
-
 👉 Definition:
 File ko staging se hata kar working area me wapas bhej deta hai (unstage).
